@@ -9,8 +9,8 @@ isrv-universalk9.17.03.03
 
 
 [Topologia] 
-<p float="left"><img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png></p>
+<p float="left"><img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png"></p>
 
-[Teste de ping e traceroute a partir do roteador WELLS-NY-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_NY_DC.png)
+[Teste de ping e traceroute a partir do roteador WELLS-NY-01#]<img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_NY_DC.png">
 
-[Teste de ping e traceroute a partir do roteador WELLSFARGODC-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_DC_NY.png)
+[Teste de ping e traceroute a partir do roteador WELLSFARGODC-01#] <img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_DC_NY.png">
