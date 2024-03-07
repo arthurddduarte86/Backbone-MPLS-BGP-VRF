@@ -8,8 +8,8 @@ c7200-adventerprisek9-mz.152-4.S7.image
 isrv-universalk9.17.03.03
 
 
-[Topologia](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png?raw=true)
+[Topologia](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png)
 
-[Teste de ping e traceroute a partir do roteador WELLS-NY-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_NY_DC.png?raw=true)
+[Teste de ping e traceroute a partir do roteador WELLS-NY-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_NY_DC.png)
 
-[Teste de ping e traceroute a partir do roteador WELLSFARGODC-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_DC_NY.png?raw=true)
+[Teste de ping e traceroute a partir do roteador WELLSFARGODC-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_DC_NY.png)
