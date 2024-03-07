@@ -8,7 +8,8 @@ c7200-adventerprisek9-mz.152-4.S7.image
 isrv-universalk9.17.03.03
 
 
-[Topologia] <img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png>
+[Topologia] 
+<p float="left"><img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Screenshot_20240307_101602.png></p>
 
 [Teste de ping e traceroute a partir do roteador WELLS-NY-01#](https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/ping+tracerouteMPLS_NY_DC.png)
 
