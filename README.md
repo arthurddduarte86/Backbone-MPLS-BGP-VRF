@@ -3,6 +3,11 @@ Projeto de topologia simples no Eve-NG, contendo um backbone MPLS 10 roteadores,
 
 
 Informações importantes: 
+
+
+NO MOMENTO ESTOU ATUALIZANDO E MOVENDO OS ARQUIVOS PRA PASTA " Version 1.0, em breve esta página estará organizada. "
+
+
 Imagens utilizadas: 
 
 c7200-adventerprisek9-mz.152-4.S7.image
