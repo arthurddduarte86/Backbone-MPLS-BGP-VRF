@@ -9,11 +9,12 @@ Notas de versão: A cada alteração na topologia independente de que natureza s
 
 ## Notas de versão
 
-- Version 1.0
+```
+Version 1.0
 * Contem Backbone MPLS de rede de transporte sobre OSPF
 * Configuração de 2 redes remotas distantes cada uma com seu ASN e interligadas usando L3VPN
 * Protocolos de roteamento OSPF, MPLS, BGP, VRF
-
+```
 
 ### Informações importantes: 
 
