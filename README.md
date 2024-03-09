@@ -17,7 +17,7 @@ Notas de versão: A cada alteração na topologia independente de que natureza s
 
 ### Informações importantes: 
 
-- Imagens de equipamentos utilizadas até o presente momento: 
+Imagens de equipamentos utilizadas até o presente momento: 
 * c7200-adventerprisek9-mz.152-4.S7.image
 * isrv-universalk9.17.03.03
 * Linux Ubuntu-Server 18
