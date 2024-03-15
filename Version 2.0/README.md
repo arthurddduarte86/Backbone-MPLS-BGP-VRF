@@ -42,7 +42,7 @@ Cisco c7200-adventerprisek9-mz.152-4.S7.image
 
 
 
-[Topologia] 
+[Topology] 
 <p float="left"><img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Version%202.0/Screenshot.png"></p>
 
 [Connectio from Jump-Server to TXCOREBR10#]<img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Version%202.0/Screenshot2.png">
