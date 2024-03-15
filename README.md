@@ -16,10 +16,20 @@ Version 1.0
 * Protocolos de roteamento OSPF, MPLS, BGP, VRF
 ```
 
+```
+Version 2.0
+* Created Bastion Server/Jump Server to access routers on MPLS topology
+* Configuration for remote access, telnet and ssh, in Backbone MPLS: access only using the Linux Server
+* No encryption and more security added due the limitations in Eve-ng
+```
+
 ### Informações importantes: 
 
-Imagens de equipamentos utilizadas até o presente momento: 
-* c7200-adventerprisek9-mz.152-4.S7.image
-* isrv-universalk9.17.03.03
-* Linux Ubuntu-Server 18
+Devices images
+Cisco
+c7200-adventerprisek9-mz.152-4.S7.image
+isrv-universalk9.17.03.03<src="https://labhub.eu.org/UNETLAB%20II/addons/qemu/Cisco%20ISRv/isrv-universalk9.17.03.03.tgz">
+Linux
+Ubuntu Server<src="https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-server">
+
 
