@@ -11,6 +11,7 @@ Version 2.0
 
 ###
 Linux user and password:  user: eve   //password: eve
+
 Cisco routers in Backbone: user: arthur   //password: arthur
 
 Code used in routers
@@ -33,15 +34,15 @@ exit
 ### Routers and devices "Images": 
 
 
-Cisco
-c7200-adventerprisek9-mz.152-4.S7.image
-isrv-universalk9.17.03.03<src="https://labhub.eu.org/UNETLAB%20II/addons/qemu/Cisco%20ISRv/isrv-universalk9.17.03.03.tgz">
-Linux
-Ubuntu Server<src="https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-server">
+Cisco c7200-adventerprisek9-mz.152-4.S7.image
+
+[Cisco isrv-universalk9.17.03.03](https://labhub.eu.org/UNETLAB%20II/addons/qemu/Cisco%20ISRv/isrv-universalk9.17.03.03.tgz)
+
+[Linux Ubuntu Server](https://labhub.eu.org/UNETLAB%20I/addons/qemu/linux-ubuntu-18.04-server)
 
 
 
 [Topologia] 
-<p float="left"><img src=""></p>
+<p float="left"><img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Version%202.0/Screenshot.png"></p>
 
-[Connectio from Jump-Server to TXCOREBR10#]<img src="">
+[Connectio from Jump-Server to TXCOREBR10#]<img src="https://github.com/arthurddduarte86/Backbone-MPLS-BGP-VRF/blob/main/Version%202.0/Screenshot2.png">
